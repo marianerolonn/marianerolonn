@@ -1,7 +1,7 @@
 # Terceiro trimestre 
 ## indentificação
-  Mariane Rolon nr:23
+  Mariane Rolon Nr:23
   
- ## Conteudo
- HTML,CSS E Javascript
+ ## Conteúdo
+ HTML,CSS e Javascript
  
